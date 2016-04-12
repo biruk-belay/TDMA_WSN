@@ -1,4 +1,6 @@
 #include <Timer.h>
+
+//This change is supposed to not show up
 generic configuration Timer32C() {
 	provides interface Timer<T32khz> as Timer32khz;
 }

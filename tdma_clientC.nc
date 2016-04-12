@@ -1,5 +1,6 @@
 configuration tdma_clientC {}
 
+//I inserted this comment just for fun
 implementation {
 
 	components new ApplicationC () as app;
